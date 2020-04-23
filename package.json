@@ -1,0 +1,22 @@
+{
+  "name": "bigtaustask1demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahin52/BigTausTask1Demo.git"
+  },
+  "author": "Sahin Kasap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahin52/BigTausTask1Demo/issues"
+  },
+  "homepage": "https://github.com/sahin52/BigTausTask1Demo#readme",
+  "dependencies": {
+    "armon-api-client": "file:../armonapiclient"
+  }
+}
